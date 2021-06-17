@@ -1,0 +1,4 @@
+
+absolute-paths: true
+tracked-files:
+  - conf/layer.conf
